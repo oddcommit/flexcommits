@@ -1,7 +1,7 @@
-<h2>5 Years of Experience in Web Development</h2>
+<h2>I love coding</h2>
 
 <h4>Flexible Coder</h4> 
-<h4>The passionate and experienced Computer scientist who focused on full-stack. Have around 7 years of website development experience and am always hungry to learn new tech.</h4>
+<h4>The passionate and experienced Computer scientist who focused on full-stack. Have around 5 years of website development experience and am always hungry to learn new tech.</h4>
 
 ## Technologies 💻
 
