@@ -102,6 +102,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="40" height="40" />
       <br>Kubernetes
-    </td>    
+    </td>  
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bubble" alt="icon" width="40" height="40" />
+      <br>bubble.io
+    </td>  
   </tr>
 </table>
