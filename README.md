@@ -104,7 +104,7 @@
       <br>Kubernetes
     </td>  
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bubble" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=bubble.io" alt="icon" width="40" height="40" />
       <br>bubble.io
     </td>  
   </tr>
