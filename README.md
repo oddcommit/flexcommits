@@ -104,8 +104,8 @@
       <br>Kubernetes
     </td>  
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bubble.io" alt="icon" width="40" height="40" />
-      <br>bubble.io
+        <img src="https://skillicons.dev/icons?i=webflow" alt="icon" width="40" height="40" />
+      <br>webflow
     </td>  
   </tr>
 </table>
