@@ -74,10 +74,6 @@
       <br>postgreSQL
     </td>  
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="40" height="40" />
-      <br>IntelliJ
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="40" height="40" />
       <br>AWS
     </td>
