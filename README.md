@@ -107,9 +107,5 @@
         <img src="https://skillicons.dev/icons?i=webflow" alt="icon" width="40" height="40" />
       <br>Webflow
     </td>  
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="40" height="40" />
-      <br>Flutter
-    </td>  
   </tr>
 </table>
