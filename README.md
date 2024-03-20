@@ -1,8 +1,5 @@
 <h2>Full stack Developer</h2>
 
-<h4>Flexible Coder</h4> 
-<h4>The passionate and experienced Computer scientist who focused on full-stack. Have around 5 years of website development experience and am always hungry to learn new tech.</h4>
-
 ## Technologies 💻
 
 <table>
